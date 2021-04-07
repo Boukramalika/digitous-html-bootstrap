@@ -1,0 +1,54 @@
+
+.container
+{
+padding: 5px 5px 5px 5px;
+}
+
+
+.jaune
+{background-color: yellow ;
+    color: yellow;
+    
+}
+.bleu1
+{background-color: blue;
+color: blue;
+
+}
+.rouge1
+{
+    background-color: red;
+    color: red;
+   
+}
+.vert
+{
+    background-color: green;
+    color: green;
+  
+}
+.gris
+{background-color: grey;
+color: gray;
+
+}
+.jaune2
+{
+    background-color: yellow;
+    color: yellow;
+  
+}
+.bleu2
+{
+    background-color: blue;
+    color: blue;
+  
+}
+.rouge2
+{
+    background-color: red;
+    color: red;
+   
+
+}
+
