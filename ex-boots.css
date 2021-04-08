@@ -52,3 +52,19 @@ color: gray;
 
 }
 
+
+.container img
+{
+    width:20%;
+    height:auto;
+    margin-right:20% ;
+   
+    
+}
+
+.banniere div{
+
+    background-color: rgb(226, 226, 226);
+    padding: 25px;
+    
+}
